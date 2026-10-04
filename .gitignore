@@ -1,0 +1,12 @@
+# Data (too big for GitHub)
+Indian-Railway-Network-and-Delays/
+*.zip
+
+# Python environment
+.venv/
+
+# Junk files
+.DS_Store
+anaconda_projects/
+.ipynb_checkpoints/
+__pycache__/
