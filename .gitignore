@@ -1,6 +1,11 @@
-# Data (too big for GitHub)
+# Data (too big for GitHub) and generated files (rebuilt by notebooks 03-07)
 Indian-Railway-Network-and-Delays/
 *.zip
+data/
+models/
+
+# Local tool settings
+.claude/
 
 # Python environment
 .venv/
