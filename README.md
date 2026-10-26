@@ -97,4 +97,4 @@ Special/festival trains are the hardest to predict (MAE ≈ 40 min); premium tra
 
 1. Download the dataset ("Indian Railway Network and Delays") and unzip it into `Indian-Railway-Network-and-Delays/` in the project root. It isn't stored in this repository because the files are too large for GitHub.
 2. Install the requirements: `pip install -r requirements.txt`
-3. Run notebooks 03 → 07 in order (about 4 minutes in total, most of it in 06). The final scores are written to `reports/test_results.csv`.
+3. Run notebooks 01 → 07 in order (about 4 minutes in total, most of it in 06). The final scores are written to `reports/test_results.csv`.
